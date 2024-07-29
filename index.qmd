@@ -1,0 +1,39 @@
+# Portada {.unnumbered}
+
+<!-- ![](img/Portada.jpg){width="60%" fig-align="center"} -->
+
+<br/>
+
+<h2>**Comentarios, sugerencias e inquietudes**</h2>
+
+**Dirección Nacional de Planeación y Estadística**
+
+Email: estadistica_nal\@unal.edu.co
+
+Teléfono: (601) 3165000 extensión 18519 / 18152 / 18159
+
+**Responsable de la construcción - versión web**
+
+María Jimena López Munevar
+
+Email: malopezmu\@unal.edu.co
+
+<!-- <html> -->
+<!-- <center> -->
+<!-- <iframe width="580" height="320" src="https://www.youtube.com/embed/pLvXfSzyYUM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> -->
+<!-- </center> -->
+<!-- </html> -->
+
+
+<h2>**Sistema Estadístico UNAL**</h2> 
+
+La Guía Metodológica Para la Implementación de Evaluaciones de IMpacto en la Universidad Nacional de Colombia hace parte integral del *sistema estadístico institucional*. Para aquellos interesados en conocer la información estadística general de la Universidad así como de las sedes que hacen parte de esta institución, los invitamos a ingresar al sitio web de [estadísticas institucionales](http://estadisticas.unal.edu.co/home/){target="_blank"} y a conocer los porqués de este sitio expresados en el siguiente video institucional.
+
+<br/>
+
+<html>
+<center>
+<iframe width="580" height="320" src="https://www.youtube.com/embed/D1228EikvoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+</html>
+

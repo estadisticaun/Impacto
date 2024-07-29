@@ -1,0 +1,50 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Guía Metodológica Implementación Evaluaciones de Impacto - UNAL"
+  author: "Dirección Nacional de Planeación y Estadística"
+  date: today
+  date-format: iso
+  reader-mode: false
+  search: true
+    
+  favicon: 'img/Logotipo_UNAL.png'
+  page-footer:
+    left:
+      - text: "Guía Metodológica"
+    right:
+      - text: "Universidad Nacional de Colombia"
+        url: https://unal.edu.co/
+  navbar:
+    logo: 'img/Logotipo_UNAL.png'
+    background: light
+    right:
+      - icon: github
+        url: https://github.com/estadisticaun/Impacto
+        aria-label: GitHub
+      - icon: youtube
+        url: https://www.youtube.com/channel/UCnE6Zj2llVxcvL5I38B0Ceg
+      - icon: globe2
+        url: https://unal.edu.co/
+        
+  sidebar:
+    logo: 'img/Logotipo_UNAL.png'
+
+  chapters:
+    - index.qmd
+    - Introduccion.qmd
+  
+
+format:
+  html:
+    #css: [css/style_gitbook.css]
+    theme: cosmo
+    include-in-header:
+      - file: style.html
+    include-after-body:
+      - file: scripts.html
+
+delete_merged_file: true
+
