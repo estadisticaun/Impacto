@@ -1,0 +1,54 @@
+# Contextualización
+
+## ¿Qué es la evaluación de impacto?
+
+Uno de los aspectos relevantes en la gestión pública, propia del trabajo dentro de las universidades públicas, es la capacidad de evaluar el impacto de los planes, programas y proyectos [^1] implementados por el estado y sus instituciones. Pues bien, la evaluación de impacto tiene que ver con medir y analizar de manera rigurosa cómo determinadas acciones afectan a la sociedad y a la comunidad en general. Los datos desempeñan un papel crucial en este proceso, ya que proporcionan la base sobre la cual se evalúa el éxito o fracaso de las acciones implementadas. En esta sección, se profundiza sobre el concepto de evaluación de impacto y cómo se lleva a cabo.
+
+[^1]: Los términos *plan, programa, proyecto, intervención, tratamiento*, entre otros similares, aunque presentan diferencias significativas cuando se analizan en detalle, en este texto se utilizarán de manera indistinta. Esto se debe a que, para los propósitos prácticos del presente análisis, todos estos términos se refieren a iniciativas de carácter público que son susceptibles de generar un impacto evaluable.
+
+La evaluación de impacto es un proceso sistemático y con pretensiones objetivas que se utiliza para medir y analizar los resultados y efectos de una intervención, programa, proyecto o política en particular. Su propósito principal es determinar si se están logrando los objetivos previamente establecidos, y entender cómo y por qué se están produciendo los resultados observados. La evaluación se lleva a cabo en diversos campos, pero es especialmente útil en la gestión pública.
+
+La evaluación de impacto, en términos puros, particularmente en relación con intervenciones que involucran a personas, se convierte en un desafío de gran complejidad. Este desafío surge de la necesidad de establecer un punto de partida y uno de llegada para determinar de manera integral la causalidad [^2] y, en último término, el impacto real. En el trabajo con comunidades, esta evaluación se ve confrontada con la dificultad de establecer relaciones directas de causalidad, pues las personas están influenciadas por una multitud de factores interrelacionados, como su entorno social, económico y cultural, variables que pueden afectar los resultados y la identificación del efecto específico de una intervención.
+
+[^2]: La causalidad se refiere a la relación entre dos eventos o variables en la que uno de ellos (la causa) produce o afecta directamente al otro (el efecto).
+
+La discusión sobre la causalidad requiere comprender que la mera correlación de eventos asociados a la intervención no implica necesariamente una relación de causa y efecto. Aunque la presencia de correlación es una condición necesaria para establecer causalidad, no es suficiente por sí sola. Esta complejidad se ve reflejada al intentar atribuir un cambio a una intervención específica, dado que múltiples factores pueden influir en el resultado final. Si bien un experimento controlado, como un ensayo clínico aleatorizado, podría proporcionar una relación clara de causa y efecto al aislar las variables que influyen en el resultado final, en la gestión pública estos ensayos a menudo resultan inviables o éticamente cuestionables. Por lo tanto, la evaluación del impacto se basa en métodos y aproximaciones diseñados para minimizar la influencia de otros factores, lo que en la práctica se conoce como *ceteris paribus*, aunque no se pueda garantizar una causalidad en términos estrictos.
+
+## ¿Por qué evaluar el impacto en el ámbito público?
+
+Para responder a la pregunta del por qué evaluar el impacto en el ámbito público, es crucial entender qué son las políticas públicas. Estas hacen referencia al conjunto de acciones, decisiones y medidas que los gobiernos y otras entidades públicas toman para abordar problemas sociales, económicos y políticos en una sociedad determinada.
+
+A través de la recolección y análisis de datos empíricos, las evaluaciones de impacto (EI) proporcionan una visión objetiva de la efectividad y eficiencia de las intervenciones gubernamentales y de organizaciones. Identifican qué programas son más efectivos y qué aspectos pueden mejorarse, lo que permite una optimización del uso de recursos y una maximización del impacto en la población objetivo.
+
+Además, las EI no solo sirven para medir el éxito o fracaso de una política pública, sino que también impulsan la mejora continua. Al identificar qué aspectos están funcionando y cuáles pueden ser mejorados, se promueve un ciclo de aprendizaje y adaptación que fortalece la capacidad de los gobiernos y las organizaciones para abordar los desafíos sociales de manera más efectiva. 
+
+## ¿Cuándo es oportuno realizar una EI?
+
+La evaluación de impacto es una herramienta poderosa. Sin embargo, su implementación efectiva requiere la consideración cuidadosa de criterios de evaluación y la disponibilidad de recursos y talento humano adecuados. Al abordar estos aspectos de manera integral, se puede garantizar que las evaluaciones de impacto sean herramientas viables, relevantes y útiles para promover el cambio positivo y el desarrollo sostenible.
+
+Entre estos criterios se incluyen:
+
+* Innovación del Programa: Programas que introducen nuevas ideas o enfoques pueden requerir una evaluación para comprender su efectividad y potencial de impacto.
+
+* Aplicabilidad y relevancia estratégica: La relevancia del programa en relación con los objetivos estratégicos del gobierno u organización es un factor determinante para decidir si una evaluación es necesaria. (salud, pensión, seguridad, etc.)
+
+* Falta de evidencia previa: Si hay poca o ninguna evidencia previa sobre la efectividad de un programa similar, una evaluación de impacto es crucial para llenar este vacío de conocimiento.
+
+* Influencia en decisiones políticas: Los programas que tienen un impacto significativo en la formulación de políticas requieren una evaluación para comprender su efectividad y tomar decisiones informadas.
+
+* Disponibilidad de contrafactuales: Si no se dispone de información que permita, a través de algún método identificar un contrafactual [^3], una evaluación de impacto podría no ser factible.
+
+[^3]: Escenario hipotético de lo que habría ocurrido en ausencia de la intervención. Es la base para medir el impacto real de un programa.
+
+La realización de una evaluación de impacto de alta calidad requiere la disponibilidad de recursos técnicos, financieros, institucionales y humanos adecuados. Es fundamental considerar lo siguiente:
+
+* Recursos técnicos: Se necesita personal capacitado y con experiencia en metodologías de evaluación de impacto para llevar a cabo el estudio de manera efectiva.
+
+* Recursos financieros: Los costos asociados con la recolección de datos, el análisis y la presentación de resultados deben ser considerados y asignados de manera adecuada. (las EI son costosas).
+
+* Recursos institucionales: Las organizaciones deben contar con el apoyo institucional necesario para llevar a cabo la evaluación de manera efectiva, lo que puede incluir la colaboración con instituciones de investigación y agencias gubernamentales.
+
+* Colaboración entre equipos: La colaboración entre equipos de políticas y de investigación es esencial para garantizar el éxito de la evaluación. La comunicación abierta y la coordinación efectiva son clave para superar desafíos y maximizar el impacto de la evaluación.
+
+* Criterios para la evaluación: No todos los programas justifican una evaluación de impacto. Se deben considerar factores como el objetivo de la evaluación (¿se espera medir el efecto de la intervención o solo monitorear los resultados?), la innovación del programa, su aplicabilidad, relevancia estratégica, falta de evidencia previa, monto de los recursos invertidos y su influencia en decisiones políticas para determinar si una evaluación de impacto es necesaria.
+

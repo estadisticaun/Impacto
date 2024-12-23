@@ -35,7 +35,8 @@ book:
   chapters:
     - index.qmd
     - Introduccion.qmd
-  
+    - Contextualizacion.qmd
+    - Pasos_metodologicos.qmd
 
 format:
   html:

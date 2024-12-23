@@ -1,0 +1,333 @@
+# Pasos metodológicos evaluación de impacto
+
+Hasta el momento, se ha presentado una breve contextualización sobre la evaluación de impacto, destacando su carácter sistemático y objetivo como herramienta para medir y analizar los resultados y efectos de intervenciones, programas, proyectos o políticas específicas. También se discutió el desafío de establecer causalidad en un sentido estricto cuando se realiza una evaluación de impacto sobre grupos sociales, subrayando la relevancia de esta evaluación en la gestión pública. En este contexto, la evaluación de impacto se presenta como una herramienta esencial para la valoración de planes, programas y proyectos, facilitando la toma de decisiones fundamentadas en evidencia que contribuyan a acciones de carácter social. Finalmente, se destacó la conexión entre la evaluación de impacto y el entorno universitario, abarcando aspectos como la investigación académica, la acreditación institucional, la evaluación de procesos de gestión y el papel de las universidades como centros imparciales para la evaluación de políticas gubernamentales y de otras instituciones.
+
+En esta sección del documento se abordarán los pasos metodológicos necesarios para llevar a cabo una evaluación de impacto. El objetivo es presentar una guía práctica que facilite la planificación y ejecución de una evaluación de impacto sobre una intervención específica. Se tratarán temas clave como la teoría del cambio y la cadena de resultados, la formulación de preguntas de evaluación, el establecimiento de indicadores y el manejo de datos.
+
+## Construcción de una teoría del cambio y cadena de resultados
+
+La construcción de una teoría del cambio representa un paso crucial en la evaluación de impacto de cualquier intervención o política. Este proceso involucra la creación de un marco conceptual detallado que explica de manera lógica y coherente cómo y por qué se espera que una intervención específica genere los resultados deseados. Una teoría del cambio bien elaborada no solo clarifica los mecanismos causales y los supuestos subyacentes, sino que también proporciona una base sólida para la planificación, implementación y evaluación de intervenciones.
+
+### Definición y propósito de la teoría del cambio
+
+Una teoría del cambio es, esencialmente, un mapa detallado de cómo se espera que una intervención provoque un cambio específico [^4]. Sirve como guía para:
+
+[^4]: La construcción de un marco teórico debería ser una práctica estándar en la formulación de cualquier plan, programa, proyecto o política dentro del ámbito público; sin embargo, en la realidad no es una práctica extendida.
+
+* Planificación y diseño: Ayuda a los responsables de la intervención a diseñar actividades y estrategias que estén alineadas con los resultados deseados.
+
+* Implementación: Proporciona un marco para la ejecución de la intervención, asegurando que todas las actividades estén dirigidas hacia la consecución de los objetivos.
+
+* Evaluación y monitoreo: Facilita la evaluación del impacto al delinear claramente las relaciones causales entre actividades e impactos, permitiendo así medir la efectividad de la intervención.
+
+### Componentes clave de una teoría del cambio
+
+Para desarrollar una teoría del cambio robusta, es fundamental incluir los siguientes componentes:
+
+* Contexto y problema por abordar: Identificación y descripción del problema específico que la intervención pretende solucionar, para esto resulta importante que los diseñadores de programas revisen la literatura en busca de evidencia que describa experiencias y programas similares, y comprueben los contextos y los supuestos detrás de las vías causales de la teoría del cambio que configuran.
+
+* Objetivos y resultados esperados: Clarificación de los objetivos a corto, mediano y largo plazo, y de los resultados esperados.
+
+* Actividades y estrategias: Descripción detallada de las actividades que se llevarán a cabo para alcanzar los objetivos y los insumos necesarios.
+
+* Mecanismos causales: Explicación de cómo y por qué las actividades llevarán a los resultados esperados, incluyendo los supuestos subyacentes. Además de la cadena de resultados que contenga la secuencia de eventos desde las actividades hasta el impacto.
+
+* Indicadores y métodos de evaluación: Definición de indicadores específicos y métodos para medir el progreso y el impacto [^5].
+
+[^5]: En el contexto de una evaluación de impacto, los indicadores y las estadísticas pueden ser entendidas y tratadas como variables.
+
+### Herramientas para el desarrollo de la teoría del cambio
+
+Una serie de herramientas analíticas y metodológicas puede facilitar la construcción de una teoría del cambio, asegurando que sea clara, coherente y empíricamente validable:
+
+* Análisis de rutas (Path Analysis): Esta estrategia permite visualizar las relaciones causales entre variables a través de diagramas de flujo, proporcionando una representación gráfica de cómo las actividades de la intervención conducen a los resultados esperados. El análisis de rutas ayuda a identificar los puntos críticos en el proceso de cambio y a asegurar que todas las variables relevantes sean consideradas. Para realizarlo se recomiendan plataformas como *LucidChart*, *Microsoft Visio* y *Draw.io*.
+
+* Matriz de marco lógico: Organiza la teoría del cambio en una matriz cuyas filas son los diferentes componentes: insumos, actividades, objetivos, resultados,etc., y cuyas columnas incluyen metas, indicadores, fuentes de verificación, supuestos, etc. Permitiendo estructurar la información de manera condensada y clara. *Excel* es una herramienta adecuada para implementarla.
+ 
+* Modelos de ecuaciones estructurales de covarianza (SEM): Los SEM son modelos estadísticos avanzados que permiten cuantificar y probar empíricamente las relaciones causales entre variables. Estos modelos pueden validar los supuestos de la teoría del cambio al ofrecer evidencias sobre la magnitud y significancia de las relaciones propuestas. Utilizando SEM, los investigadores pueden evaluar la consistencia del marco teórico con los datos empíricos, ajustando el modelo según sea necesario. Estos modelos pueden implementarse en softwares como *SPSS Amos, Mplus, R, Stata*, entre otros.
+
+## Desarrollo de una cadena de resultados
+
+A diferencia de la teoría del cambio, que se enfoca en la explicación causal y conceptual, la cadena de resultados se centra en la secuencia lógica y práctica necesaria para alcanzar los objetivos finales de una intervención. Dicho de otro modo, la cadena de resultados describe una teoría del cambio; descompone una intervención en sus componentes esenciales y establece una secuencia lógica de pasos que conectan las actividades iniciales con los resultados finales. Este enfoque no solo clarifica cómo se generan los impactos, sino que también facilita la identificación de resultados intermedios y la definición de indicadores o variables pertinentes para medir cada etapa del proceso.
+
+### Componentes de una cadena de resultados
+
+Una cadena de resultados se compone de varios elementos clave, cada uno de los cuales juega un papel crucial en la conexión de las actividades con los resultados finales:
+
+* Insumos (Inputs): Recursos financieros, humanos, materiales y técnicos necesarios para llevar a cabo las actividades de la intervención.
+
+* Actividades: Acciones específicas que se llevarán a cabo utilizando los insumos disponibles.
+
+* Productos (Outputs): Resultados directos e inmediatos de las actividades realizadas.
+
+* Resultados Intermedios (Outcomes): Efectos a corto y mediano plazo que resultan de los productos, y que son necesarios para alcanzar los objetivos a largo plazo.
+
+* Impacto Final (Impact): Cambio duradero y significativo que se espera lograr a largo plazo como resultado de la intervención.
+
+## La especificación de las preguntas de la evaluación
+
+La formulación de preguntas de evaluación constituye un componente esencial en el diseño de una evaluación de impacto efectiva. Estas preguntas deben ser claras, precisas y alineadas con los objetivos específicos de la intervención. La correcta redacción y especificación de las preguntas de evaluación no solo determinan el enfoque y el alcance del análisis, sino también aseguran que la evaluación sea relevante y útil tanto para los diseñadores de políticas como para los beneficiarios.
+
+Usualmente, la pregunta de evaluación se formula como una hipótesis clara y comprobable que cuantifique la diferencia entre los resultados obtenidos al comparar los grupos de tratamiento y control [^6]. Sin embargo, hay preguntas de evaluación que se centran en otros aspectos. A continuación, se presentan algunos tipos de preguntas de evaluación.
+
+[^6]: Se emplearán los términos grupo control, grupo comparación, grupo no intervenido o no tratado y contrafactual de manera equivalente.
+
+### Tipos de preguntas de evaluación
+
+* Efectividad: ¿En qué medida ha logrado la intervención los objetivos previstos? ¿Cuáles son los resultados observados y cómo se comparan con las metas establecidas?
+
+* Eficiencia: ¿Se han utilizado los recursos de manera óptima para obtener los resultados deseados? ¿Existe una relación costo-beneficio favorable?
+
+* Impacto: ¿Qué cambios a largo plazo se han producido como resultado de la intervención? ¿Cómo han afectado estos cambios a la población objetivo y al contexto más amplio?
+
+* Sostenibilidad: ¿Son los resultados de la intervención sostenibles a largo plazo? ¿Qué factores influencian la durabilidad de estos resultados?
+
+### Estrategias para la formulación de preguntas de evaluación
+
+Para formular preguntas de evaluación efectivas, se deben seguir ciertos principios y estrategias:
+
+* Claridad y precisión: Las preguntas deben ser formuladas de manera que sean fáciles de entender y no den lugar a interpretaciones ambiguas. Por ejemplo, en lugar de preguntar "¿Ha mejorado la salud?" se podría preguntar "¿Ha mejorado la tasa de vacunación infantil en un 20% durante el primer año de la intervención?"
+
+* Relevancia y alineación: Asegurar que las preguntas estén directamente relacionadas con los objetivos y resultados esperados de la intervención. Preguntas como "¿En qué medida ha aumentado el acceso a servicios educativos para niñas en zonas rurales?" deben estar alineadas con los objetivos específicos del programa.
+
+* Especificidad y medibilidad: Las preguntas deben ser específicas y permitir la recolección de datos cuantitativos y cualitativos. Una pregunta específica podría ser "¿Cuál ha sido el cambio en el rendimiento académico promedio de los estudiantes beneficiados por la intervención?"
+
+* Enfoque en resultados y proceso: Incluir preguntas que aborden tanto los resultados finales como los procesos implementados. Por ejemplo, "¿Qué factores del proceso de implementación han influido en el éxito o fracaso de la intervención?"
+
+* Inclusión de perspectivas de las partes interesadas: ncorporar preguntas que reflejen las preocupaciones y prioridades de todas las partes interesadas, incluyendo beneficiarios, implementadores y financiadores. Preguntas como "¿Cómo perciben los beneficiarios los cambios introducidos por la intervención?" pueden proporcionar una visión integral del impacto.
+
+## Indicadores
+
+Ya se ha discutido sobre los indicadores; se ha mencionado que la teoría del cambio y la cadena de resultados deben considerar los indicadores necesarios para medir cada etapa. También se ha indicado que las preguntas de evaluación ayudan a definir estos indicadores.
+
+Pero, ¿qué es un indicador? Un indicador es una herramienta que se emplea para recopilar, presentar y analizar información focalizada que permita describir y explicar fenómenos de interés, a través de medidas como frecuencias, proporciones, razones, tasas, índices, entre otras.
+
+Pues bien, los indicadores proporcionan una base objetiva y precisa para evaluar y monitorear las intervenciones, y deben ser cuidadosamente seleccionados para asegurar su relevancia, medibilidad y sensibilidad al cambio. Dependiendo de lo que se desee evaluar, se eligen diferentes tipos de indicadores.
+
+Estos pueden abarcar temas de interés para la sociedad, como indicadores sociales, ambientales y demográficos; o elementos del proceso de gestión (o cadena de resultados), tales como insumos, actividades, productos y resultados; tercero, indicadores de eficiencia, eficacia y efectividad, entre otros.
+
+### Tipología de indicadores
+
+A continuación, se presenta una tipología resumida de indicadores, extraída del texto *"Estadísticas e Indicadores en la Gestión Pública. Aproximación Teórica y Práctica" (Hernández & Rodríguez, 2023), de la Universidad Nacional de Colombia*. Para obtener información más detallada sobre el tema, se recomienda consultar la fuente original en el siguiente [enlace](https://estadisticaun.github.io/L_Conceptual1/Cap_III.html){target="_blank"}.
+
+#### Indicadores Cuantitativos y Cualitativos
+
+* **Indicadores Cuantitativos**: Se basan en mediciones numéricas y miden magnitudes o cantidades. Ejemplos incluyen el PIB, la tasa de inflación, la mortalidad, la tasa de desempleo, etc.
+
+* **Indicadores Cualitativos**: Se enfocan en aspectos no numéricos, como percepciones, actitudes, valores, calidad, etc. Su medición se realiza a través de descripciones verbales o visuales. Sin embargo, pueden ser cuantificados indirectamente mediante escalas como la Likert.
+
+En algunos casos, es útil hablar de **estrategias de medición directas e indirectas** (en lugar de cualitativas y cuantitativas), pues algunas características no numéricas pueden ser medidas con herramientas numéricas. Por ejemplo, la felicidad o la ansiedad pueden medirse indirectamente con encuestas y otros instrumentos de medición que emplean escalas numéricas.
+
+* **Combinación de Indicadores**: A menudo se combinan enfoques cualitativos y cuantitativos para obtener una visión más completa del fenómeno estudiado, como en las encuestas que combinan preguntas cerradas (cuantitativas) con abiertas (cualitativas).
+
+#### Indicadores Temáticos
+
+* Definición: Los indicadores temáticos se clasifican según áreas específicas de interés, como la salud, la economía, la educación, la demografía, etc. Son herramientas clave para observar tendencias y comparar situaciones en diferentes regiones o países.
+
+* Importancia: Los indicadores temáticos permiten medir grandes acuerdos sociales, como el bienestar social, la salud o el desarrollo económico. Ayudan a establecer bases para diseñar indicadores de gestión que intervienen directamente en las áreas identificadas.
+
+* Ejemplos:
+
+  * Económicos: PIB, inflación, tasa de empleo.
+  * Sociales: Calidad de vida, acceso a servicios.
+  * Ambientales: Huella de carbono, calidad del aire.
+  * Demográficos: Tasa de natalidad, mortalidad, migración.
+
+#### Indicadores de Gestión
+
+* Definición: Los indicadores de gestión se relacionan con los procesos organizacionales para evaluar el desempeño y la eficiencia de las instituciones públicas. Estos indicadores se dividen según el tipo de proceso (recurrente o no recurrente).
+
+* Tipos de Procesos:
+
+  * Recurrentes: Son continuos en el tiempo, como los procesos internos de una universidad (ej. graduación de estudiantes).
+  * No recurrentes: Son limitados en el tiempo y están asociados a planes o proyectos específicos, como un plan para mejorar habilidades de lectura y escritura.
+
+* Medición de Desempeño:
+
+  * Indicadores de Insumo: Miden los recursos disponibles (ej. cantidad de personal capacitado).
+  * Indicadores de Actividades: Miden el progreso de las acciones en los procesos (ej. cantidad de estudiantes que asisten a un curso).
+  * Indicadores de Resultados: Miden los productos o resultados inmediatos (ej. cantidad de estudiantes graduados).
+  * Indicadores de Impacto: Miden los efectos a largo plazo de un proceso o intervención.
+
+* Subtipos de Indicadores de Seguimiento: Se usan para medir el cumplimiento de metas en procesos no recurrentes y pueden clasificarse en:
+
+  * Stock: Miden el esfuerzo por mantener un nivel constante.
+  * Flujo: Miden el cumplimiento de metas de forma periódica.
+  * Acumulado: Miden el avance total sumando los logros de diferentes periodos.
+  * Capacidad: Miden el progreso según los recursos y metas predefinidas.
+  * Reducción: Miden la disminución de factores negativos.
+  
+#### Indicadores según Eficiencia, Eficacia y Efectividad
+
+* Eficiencia: Mide la relación entre los recursos utilizados y los resultados obtenidos. Se busca lograr los objetivos con el mínimo de recursos.
+
+* Eficacia: Evalúa si se han alcanzado las metas establecidas, sin considerar los recursos usados.
+
+* Efectividad: Es la combinación de eficiencia y eficacia, evaluando tanto el logro de metas como la optimización de recursos.
+
+#### Indicadores Según Jerarquía
+
+**Jerarquización**: Una manera de responder a la diversidad de tipologías y de estrategias de clasificación de indicadores es a través de la jerarquización, donde se le atribuye una cierta importancia, o pertinencia, a cada indicador. Vale la pena tener en cuenta que la jerarquización tiene, de fondo, una configuración ideológica, y que la atribución de importancia puede depender de las tendencias de gestión o ejecución del momento.
+
+Por ejemplo, en términos del (DANE, 2011), la clasificación de los indicadores según su jerarquía tiene que ver con qué tan estratégicos o no estratégicos son. La clasificación que presentan señala que entre más relacionado esté un indicador con las dinámicas internas de gestión, como la relación entre insumos y procesos, es menos estratégico. Y entre más relacionado esté con los resultados y el impacto, es más estratégico.
+
+### Características de indicadores
+
+Para ser útiles y efectivos, los indicadores deben cumplir con ciertos criterios, comúnmente conocidos como SMART (por sus siglas en inglés):
+
+* Específicos (Specific): Deben estar claramente definidos y enfocados en un aspecto concreto de la intervención. Ejemplo: "Porcentaje de estudiantes que completan la educación primaria".
+
+* Medibles (Measurable): Deben ser cuantificables para permitir la recolección de datos precisos. Ejemplo: "Número de clínicas móviles desplegadas por mes".
+
+* Alcanzables (Achievable): Los objetivos asociados al indicador deben ser realistas y alcanzables dentro de los recursos y capacidades disponibles. Ejemplo: "Incremento del 10% en la cobertura de vacunación infantil en un año".
+
+* Relevantes (Relevant): Deben estar directamente relacionados con los objetivos de la intervención. Ejemplo: "Tasa de empleo entre los beneficiarios del programa de capacitación laboral".
+
+* Temporales (Time-bound): Deben tener un marco temporal claro para su medición. Ejemplo: "Reducción del 20% en la desnutrición infantil en tres años".
+
+### Proceso de selección de indicadores
+
+El proceso de selección de indicadores implica varios pasos clave:
+
+* Definición de objetivos y resultados esperados: clarificar los objetivos de la intervención y los resultados específicos que se esperan alcanzar.
+
+* Identificación de variables clave: determinar las variables que influyen directamente en los resultados y pueden ser utilizadas como indicadores.
+
+* Evaluación de relevancia y factibilidad: analizar la relevancia y la factibilidad de las variables identificadas para asegurar que sean adecuadas como indicadores.
+
+* Definición y operacionalización: especificar claramente cada indicador y cómo será medido, asegurando que sea específico, medible, alcanzable, relevante y temporal.
+
+* Validación y prueba piloto: validar los indicadores seleccionados a través de pruebas piloto para asegurarse de que sean efectivos y que los datos recopilados sean consistentes y útiles.
+
+## Recolección, limpieza y transformación de datos
+
+Tras el proceso de conceptualización, el siguiente paso en una evaluación de impacto es la recolección, limpieza y transformación de los datos que sirven como evidencia para evaluar y monitorear la intervención. Este proceso garantiza la calidad y confiabilidad de la información recopilada. A continuación, se presenta una breve descripción de cada etapa:
+
+### Recolección de datos
+
+* Definición de métodos
+
+Es esencial definir los métodos de recolección de datos más adecuados según la naturaleza de la evaluación, como encuestas, entrevistas, datos secundarios, etc. Los instrumentos de recolección deben ser validados y estandarizados para minimizar el riesgo de sesgos y errores.
+
+* Identificación de fuentes de datos
+
+  * Fuentes primarias: datos recolectados directamente a través de encuestas, entrevistas, observaciones y experimentos.
+  * Fuentes secundarias: datos obtenidos de registros existentes, bases de datos, informes y publicaciones previas. Una de las fuentes secundarias más importantes para las evaluaciones de impacto es acudir a registros administrativos, lo cual es considerado una buena práctica y debe ser fomentado.
+
+* Diseño de Instrumentos de recolección
+
+  * Cuestionarios y encuestas: herramientas estructuradas para recolectar datos cuantitativos y cualitativos. Deben ser diseñadas de manera clara y concisa, evitando preguntas ambiguas y sesgadas.
+  * Guías de entrevista: documentos que orientan las entrevistas para la recolección de información cualitativa, permitiendo profundizar en aspectos específicos de la intervención.
+  * Formatos de observación: plantillas estandarizadas para registrar observaciones directas en el campo, garantizando la coherencia en la recolección de datos.
+
+* Capacitación del personal
+
+  * Entrenamiento en técnicas de recolección: Capacitar al personal en el uso de instrumentos de recolección, técnicas de entrevista y observación, y procedimientos éticos.
+  * Ensayos prácticos: Realizar simulaciones y ejercicios prácticos para familiarizar al personal con los instrumentos y procedimientos.
+  * Supervisión y apoyo continuo: Establecer mecanismos de supervisión y apoyo para resolver dudas y problemas durante el proceso de recolección.
+  
+### Limpieza de datos
+
+La limpieza de datos es un proceso crucial que garantiza la calidad y precisión de la información utilizada en el análisis. Este proceso incluye la eliminación de datos erróneos, duplicados o irrelevantes, la corrección de errores y la estandarización de formatos. Un concepto clave en este contexto es el de “tidy data” o “datos ordenados”, que se refiere a un conjunto de datos bien estructurado donde cada variable/indicador se encuentra en una columna, cada observación en una fila y cada tipo de unidad observacional forma una tabla separada. Esta organización facilita la manipulación y el análisis de los datos, permitiendo la detección de patrones y tendencias relevantes.
+
+#### Etapas de la limpieza de datos
+
+* Eliminación de datos incorrectos o irrelevantes:
+
+**Identificación y remoción**: Detectar y eliminar datos que sean incorrectos, incompletos o irrelevantes, ya que pueden distorsionar los resultados del análisis.
+
+* Procedimientos de imputación:
+
+**Estimación y compleción de datos faltantes**: Utilizar métodos estadísticos para estimar y completar datos faltantes, asegurando la integridad del conjunto de datos.
+
+* Estandarización y formato:
+
+**Consistencia y estructura**: Organizar los datos de manera consistente y estructurada, asegurando que estén listos para ser analizados con las herramientas estadísticas adecuadas. Esto incluye la conversión de formatos y la unificación de criterios de registro.
+
+#### Principios de “Tidy Data”
+
+Llegado a este punto es importante resaltar que la mayoría de las Evaluaciones de Impacto se centran en el ámbito de los datos estructurados, pero existe un universo de datos semiestructurados y no estructurados, que de hecho conforman la mayor parte de los datos disponibles en la actualidad. Estos tipos de datos tienen el potencial de enriquecer significativamente los procesos de evaluación. No obstante, la falta de conocimientos y técnicas adecuadas para utilizar y abordar estos datos en el contexto de las Evaluaciones de Impacto representa un desafío considerable. 
+
+Con respecto a la preparación adecuada de los datos estructurados siguiendo el principio de “tidy data”, los principios a tener en cuenta son:
+
+* Estructura clara: Cada variable en una columna, cada observación en una fila y cada tipo de unidad observacional en una tabla separada.
+
+* Facilidad de manipulación: La estructura ordenada de los datos permite una fácil manipulación y análisis, facilitando la detección de patrones y tendencias.
+
+* Preparación para análisis: Datos listos para ser analizados con herramientas estadísticas y tecnológicas adecuadas, reduciendo el tiempo y el esfuerzo necesarios para la preparación del análisis.
+
+#### Beneficios de una limpieza de datos adecuada
+
+* Precisión y confiabilidad: Datos limpios y bien estructurados garantizan la precisión y confiabilidad de los resultados del análisis.
+
+* Eficiencia en el análisis: Una buena preparación de los datos reduce el tiempo necesario para el análisis, permitiendo centrarse en la interpretación de los resultados.
+
+* Detección de patrones y tendencias: Facilita la detección de patrones y tendencias relevantes, proporcionando información valiosa para la toma de decisiones.
+
+### Transformación de los datos
+
+La transformación de datos es una fase fundamental en cualquier proceso de evaluación de impacto, ya que es en este momento donde la información recolectada se convierte en insumos útiles para el análisis y la toma de decisiones. Esta fase tiene como objetivo garantizar que los datos sean interpretados de manera que produzcan conclusiones válidas, precisas y relevantes para los objetivos de la evaluación. Es importante entender que la simple recolección de datos no es suficiente; estos deben ser procesados, transformados y contextualizados de manera adecuada para obtener insights que permitan evaluar el verdadero impacto de un proyecto o intervención.
+
+En este sentido, la transformación de datos puede involucrar varias acciones clave, como, *limpieza y preparación de los datos*, donde los datos recolectados suelen ser crudos y pueden contener errores, duplicados, valores faltantes o inconsistencias. La limpieza de datos implica corregir o eliminar estos problemas para garantizar que los datos sean de alta calidad y adecuados para el análisis. *Estandarización y normalización*, donde los datos provienen de diversas fuentes y pueden estar en formatos diferentes. La estandarización y normalización consiste en convertir estos datos a un formato uniforme, lo cual facilita su comparación y análisis. *Análisis exploratorio de datos*, que hace referencia a una etapa previa al análisis profundo, donde es importante explorar los datos para identificar patrones, tendencias o anomalías que puedan influir en los resultados. Esto ayuda a comprender mejor la naturaleza de los datos y a determinar las mejores técnicas de análisis.
+
+## Análisis
+
+Es esencial especificar las técnicas y herramientas estadísticas y tecnológicas que se utilizarán para analizar los datos recolectados, incluso antes de que los datos sean recolectados, con el fin de se garantice que los datos que estarán disponibles serán suficientes y adecuados para responder a las preguntas planteadas. Esto incluye:
+
+* **Análisis descriptivo**: Previo a la implementación de modelos es importante describir los datos recolectados para visualizar el panorama general, identificar patrones y características que orienten el análisis cuantitativo, y generar hipótesis que pueden ser verificadas empleando las metodologías pertinentes. Dependiendo de los datos y los objetivos se determinan cuáles son los gráficos, estadísticas y métodos más convenientes, algunos de los más comunes son: gráfico de series temporales (variable respuesta vs tiempo), histograma, gráfico de densidad, diagrama de cajas y bigotes, entre otros (discriminando por variables categóricas).
+
+* **Inferencia causal**: Emplear técnicas como análisis de regresión, análisis de diferencia en diferencias, o métodos de emparejamiento para establecer relaciones causales entre la intervención y los resultados observados. Teniendo en cuenta los supuestos que realizan las distintas metodologías con el fin de llegar a conclusiones acertadas.
+
+* **Validación de resultados**: Utilizar pruebas estadísticas para determinar la significancia de las relaciones observadas y asegurar que los hallazgos no sean simplemente el resultado del azar.
+
+## Interpretación y comunicación de resultados
+
+La interpretación de los resultados debe ser objetiva y basada en los datos analizados. Esto implica:
+
+* Contextualización: Situar los hallazgos en el contexto más amplio de la intervención y su entorno, considerando factores externos que puedan haber influido en los resultados.
+
+* Comunicación efectiva: Presentar los hallazgos de manera clara y comprensible para diferentes audiencias, asegurando que las implicaciones y recomendaciones sean claras y accionables.
+
+La comunicación de los resultados de la evaluación es crucial para su impacto y utilidad. Un informe bien estructurado y detallado es la herramienta principal para lograr este objetivo. El informe debe cubrir:
+
+* Descripción del proceso de evaluación: Incluir una visión general del proceso de evaluación, desde la planificación hasta la implementación y el análisis de datos.
+
+* Detalles metodológicos: Explicar en detalle los métodos empleados para la recolección y análisis de datos, asegurando la transparencia y replicabilidad del estudio.
+
+* Resultados obtenidos: Presentar los hallazgos de manera clara y estructurada, utilizando tablas, gráficos y descripciones narrativas para destacar los puntos clave.
+
+* Conclusiones y recomendaciones: Derivar conclusiones sólidas basadas en los resultados analizados y proporcionar recomendaciones específicas y orientadas a la acción.
+
+## Promoción de la transparencia y la confianza
+
+Mantener altos estándares de transparencia en la presentación de resultados fortalece la confianza en la evaluación y en las recomendaciones derivadas. Esto incluye:
+
+* Divulgación de limitaciones: Reconocer y discutir las limitaciones del estudio, proporcionando una evaluación honesta de la incertidumbre asociada con los resultados.
+
+* Accesibilidad de datos: Facilitar el acceso a los datos subyacentes y a los detalles metodológicos para permitir una revisión independiente y una mayor comprensión.
+
+## Disponibilidad y accesibilidad de los datos para evaluaciones de impacto
+
+En el contexto de las evaluaciones de impacto en lo público, los datos se construyen con recursos públicos. En este sentido, son un bien común, y como tal, deben estar abiertos al público, deben estar abiertos, dispuestos y disponibles para ser debatidos, cuestionados y reutilizados en futuras evaluaciones. A continuación, se detallan los pasos y consideraciones clave para garantizar que los datos cumplan con estos principios.
+
+* Transparencia
+
+Es esencial que los datos utilizados en las evaluaciones de impacto sean transparentes. Esto implica que se debe proporcionar información clara sobre la fuente de los datos, los métodos de recolección y cualquier manipulación o transformación aplicada. La transparencia asegura que otros investigadores y partes interesadas puedan comprender el contexto y la calidad de los datos.
+
+* Formato estándar y accesible
+
+Los datos deben ser proporcionados en formatos estándar y ampliamente aceptados que faciliten su análisis y reutilización. Formatos como *CSV, JSON y XML* son preferibles debido a su simplicidad y compatibilidad con una variedad de herramientas de análisis de datos. Evitar formatos propios que puedan limitar el acceso y la reutilización de los datos.
+
+* Metadatos y documentación
+
+Acompañar los datos con metadatos detallados y documentación completa es crucial para su correcta interpretación y uso. Los metadatos deben incluir información sobre las variables, unidades de medida, fecha de recolección y cualquier otro aspecto relevante que describa el conjunto de datos.
+
+* Plataformas de publicación
+
+Publicar los datos en plataformas accesibles y bien mantenidas, como repositorios de datos abiertos y plataformas institucionales, garantiza que los datos estén disponibles para un público amplio. Asegurarse de que estas plataformas sean de fácil acceso y navegabilidad para facilitar el proceso de búsqueda y descarga de los datos.
+
+* Fomento del debate y la colaboración
+
+Promover un entorno en el que los datos puedan ser debatidos y cuestionados es esencial para mejorar la calidad y la fiabilidad de las evaluaciones de impacto. Fomentar la colaboración y el intercambio de ideas entre investigadores, analistas y partes interesadas ayuda a identificar posibles errores, sesgos y oportunidades de mejora en los datos.
+
+
