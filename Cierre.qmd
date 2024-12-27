@@ -1,0 +1,19 @@
+# Cierre
+
+La guía metodológica de evaluación de impacto en cuestión representa un primer paso hacia la sistematización y rigurosidad en la evaluación de intervenciones y políticas en el ámbito de la universidad pública. A pesar de que los lineamientos de política moderna y los estándares de acreditación han reconocido la importancia de la evaluación de impacto, a menudo se limitan a señalar su relevancia sin ofrecer directrices concretas para su implementación. Este documento aborda precisamente tal carencia, proporcionando un marco claro y estructurado que facilita la aplicación de metodologías de evaluación de impacto en entornos universitarios.
+
+La guía se enfoca en presentar los principios clave de la evaluación de impacto, describiendo metodologías pertinentes y ofreciendo un proceso detallado para llevar a cabo evaluaciones efectivas. Al hacerlo, subraya la evaluación de impacto como una herramienta esencial para la medición objetiva y sistemática de los resultados de intervenciones, programas, proyectos o políticas específicas. Aunque la tarea de establecer causalidad estricta puede ser compleja y desafiante, la guía proporciona las bases necesarias para superar estos obstáculos y mejorar la calidad y la fiabilidad de las evaluaciones en el contexto universitario.
+
+Este documento no solo facilita una mejor comprensión de la evaluación de impacto, sino que también promueve su integración efectiva en las prácticas universitarias. Al ofrecer una orientación práctica y detallada, la guía busca contribuir significativamente al fortalecimiento de la evaluación de impacto como un componente crucial en la mejora continua y la toma de decisiones informadas dentro del entorno académico.
+
+**Conclusiones**:
+
+1. **Importancia de la Evaluación de Impacto**: La evaluación de impacto es esencial para medir los resultados y efectos de intervenciones y políticas, ayudando a la toma de decisiones basada en evidencia. Su carácter sistemático y objetivo la convierte en una herramienta valiosa en la gestión pública y en el ámbito académico.
+
+1. **Desafíos de la Causalidad**: Establecer causalidad en evaluaciones de impacto es complejo, especialmente cuando se trata de grupos sociales. Aunque es difícil obtener una causalidad absoluta, la guía proporciona métodos estructurados para aproximarse a una evaluación precisa.
+
+1. **Pasos Metodológicos Claros**: La guía detalla pasos metodológicos clave para llevar a cabo una evaluación de impacto, como el desarrollo de un marco conceptual, la formulación de preguntas de evaluación, el establecimiento de indicadores, la recolección y manejo de datos, y la comunicación de resultados. Estos pasos son fundamentales para asegurar la calidad y precisión de la evaluación.
+
+1. **Diversidad de Metodologías**: Existen varias metodologías para evaluar el impacto de las intervenciones. Los métodos experimentales ofrecen el mayor control y capacidad de establecer causalidad, mientras que los métodos cuasi-experimentales y no experimentales proporcionan alternativas útiles en contextos donde los experimentos no son viables. Cada metodología tiene sus ventajas y desventajas, y la elección del método debe depender de los objetivos específicos de la evaluación.
+
+1. **Accesibilidad y Recursos**: La guía proporciona una introducción general a los modelos de evaluación de impacto, con una bibliografía complementaria para quienes deseen profundizar en los modelos específicos. Esto asegura que los interesados tengan acceso a recursos adicionales para una exploración más detallada.

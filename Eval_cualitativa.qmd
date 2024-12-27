@@ -1,0 +1,68 @@
+# Métodos de evaluación cualitativa
+
+Las metodologías cualitativas ofrecen una perspectiva profunda y compleja sobre los efectos de las intervenciones, permitiendo captar dimensiones que los indicadores cuantitativos a menudo no logran reflejar. Su integración en los procesos de evaluación —no solo de impacto, sino también de otros aspectos— proporciona una comprensión más detallada de los resultados de un programa, los mecanismos de cambio involucrados y las experiencias de los participantes en contextos específicos.
+
+En este sentido, los métodos cualitativos descritos en este texto se presentan ordenados en dos grupos [^9]. El primero se refiere a métodos cualitativos de recolección de datos, que permiten explorar los procesos y resultados de manera exhaustiva, ofreciendo una visión más completa de los efectos y de las dinámicas sociales, culturales y contextuales que, en muchos casos, no se capturan adecuadamente mediante enfoques cuantitativos. Los métodos cualitativos de recolección de datos que se abordan en este documento son: Estudio de Caso, Grupos Focales, Entrevistas en Profundidad, Etnografía, Análisis Documental e Investigación Acción Participativa (IAP). Estos no son los únicos métodos cualitativos existentes, ni se presentan aquí bajo una clasificación exhaustiva o rigurosamente estructurada. Son solo algunos ejemplos representativos de enfoques que pueden agruparse de diversas maneras. Para efectos de esta guía, se han reunido como se muestra en la siguiente sección.
+
+[^9]: Presentamos algunos métodos específicos, aunque existen muchos otros recursos para la evaluación cualitativa. Todo este campo de la evaluación cualitativa puede organizarse y clasificarse de diversas maneras. En esta guía, ofrecemos una clasificación propia, que consideramos útil para los fines de este documento. Cabe señalar que otros enfoques y métodos están detallados en las guías *Avance de la Guía Metodológica para la Evaluación de Impacto del Sistema de Bienestar Universitario de la Universidad Nacional de Colombia* y *Guía Metodológica para la Elaboración de Evaluaciones de Resultado e Impacto de Programas de Apoyo Académico en la Universidad Nacional de Colombia*.
+
+El segundo grupo se refiere a marcos teóricos y metodologías interpretativas más profundas, que pueden aplicarse a cualquier tipo de investigación, para el caso particular de este documento, se describen brevemente tres marcos teóricos y metodológicos, a saber, análisis hermenéutico, fenomenológico y del discurso. En comparación con los métodos del primer grupo, que son más prácticos y descriptivos, los del segundo grupo se caracterizan por su amplitud, ya que no solo buscan recopilar datos, sino también interpretar el sentido profundo y las dinámicas subyacentes que modelan la experiencia de los participantes. Cada uno de estos enfoques se basa en postulados, métodos y supuestos propios, que orientan el proceso de análisis y la comprensión de la realidad investigada. Resulta importante mencionar que cada metodología cualitativa tiene sus fortalezas particulares y debe ser seleccionada según los objetivos y las características de la evaluación que se esté llevando a cabo.
+
+## Métodos cualitativos de recolección de datos
+
+### Estudio de Caso
+
+El estudio de caso es una metodología cualitativa que permite analizar de manera profunda y detallada un fenómeno dentro de su contexto natural. Se centra en un caso específico (como una persona, un grupo, una organización o un programa) y se investiga desde diversas perspectivas mediante el uso de múltiples fuentes de información (entrevistas, observación, documentos, etc.).
+
+### Grupos Focales
+
+Los grupos focales son discusiones guiadas que reúnen a un grupo de personas con características o experiencias similares para explorar sus percepciones, opiniones y actitudes sobre un tema específico. El facilitador del Grupo Focal dirige la conversación mediante preguntas abiertas, fomentando el intercambio y el debate entre los participantes.
+
+### Entrevistas en Profundidad
+
+Las entrevistas en profundidad son conversaciones individuales, estructuradas o semiestructuradas, que exploran detalladamente las experiencias, percepciones y opiniones de los entrevistados sobre un tema específico. Estas entrevistas permiten abordar temas complejos y explorar emociones y perspectivas personales.
+
+### Etnografía
+
+La etnografía es un enfoque cualitativo en el que el investigador se sumerge en el contexto que está estudiando, participando en las actividades cotidianas del grupo o comunidad de interés. El objetivo es comprender la cultura, las prácticas y las dinámicas sociales desde una perspectiva interna, es decir, desde el punto de vista de los propios participantes.
+
+### Análisis Documental
+
+El análisis documental implica la revisión y evaluación de documentos relevantes (informes, registros, políticas, archivos, etc.) para comprender el impacto de un programa o intervención. Este método se enfoca en la interpretación de textos y registros con el fin de obtener información contextual, histórica o evaluativa.
+
+### Investigación Acción Participativa (IAP)
+
+La IAP es un enfoque de investigación colaborativa en el que investigadores y participantes trabajan juntos para identificar problemas, generar soluciones y evaluar el impacto de una intervención. Los participantes son actores activos en el proceso, lo que les permite influir en el diseño y ejecución de la investigación.
+
+## Metodologías cualitativas de interpretación y comprensión
+
+### Análisis Hermenéutico
+
+El análisis hermenéutico se enfoca en la interpretación de textos y fenómenos dentro de un contexto social, cultural e histórico, buscando desentrañar el significado profundo que los participantes atribuyen a sus experiencias. Se basa en la hermenéutica, que originalmente era la interpretación de textos sagrados, y ha evolucionado hacia un enfoque general de interpretación de fenómenos humanos. Algunos autores sobre Análisis Hermenéutico son:
+
+* Hans-Georg Gadamer: En su obra *Verdad y Método* (1960), Gadamer subraya que todo acto interpretativo está condicionado por los prejuicios y tradiciones del intérprete, lo que hace que la comprensión sea siempre un proceso dialéctico. El diálogo y la comprensión histórica son esenciales para interpretar cualquier texto.
+
+* Paul Ricoeur: Su enfoque sostiene que el sentido de un texto no es fijo, sino que cambia con el tiempo según el contexto interpretativo, aplicando esta idea a fenómenos sociales y culturales.
+
+Con respecto al *impacto* de un proyecto, el análisis hermenéutico es útil para explorar cómo los participantes interpretan los impactos de una intervención, considerando sus contextos personales y culturales. Permite comprender cómo esas interpretaciones evolucionan y cómo se construyen significados subjetivos, revelando las dinámicas detrás de los efectos de un proyecto, más allá de los resultados cuantitativos.
+
+### Enfoque Fenomenológico
+
+La fenomenología se centra en la descripción de las experiencias humanas desde la perspectiva subjetiva de los participantes, buscando captar la esencia de estas vivencias sin recurrir a *explicaciones causales*. Su objetivo es entender cómo las personas experimentan el mundo y qué significados atribuyen a sus vivencias. Algunos referentes son:
+
+* Edmund Husserl: Fundador de la fenomenología, propuso que el análisis debe llegar a las "esencias" de las experiencias humanas, es decir, las estructuras fundamentales de la conciencia y su relación con los objetos de experiencia, como se expone en *Investigaciones Lógicas* (1900).
+
+* Martin Heidegger: Aunque discípulo de Husserl, desarrolló una fenomenología existencial centrada en la interpretación de la existencia humana, mostrando que las experiencias no se pueden separar de su contexto histórico y cultural (*Ser y Tiempo*, 1927).
+
+El enfoque fenomenológico podría ser clave para entender los impactos de los proyectos desde la vivencia *subjetiva* de los participantes. Permite explorar las emociones, percepciones y significados que atribuyen a las intervenciones, proporcionando una visión más profunda de los efectos de un proyecto, especialmente en áreas difíciles de *medir cuantitativamente*, como los aspectos emocionales o psicológicos.
+
+### Análisis del Discurso
+
+El análisis del discurso se enfoca en cómo el lenguaje, las narrativas y las representaciones sociales construyen la realidad, examinando no solo lo que se dice, sino también cómo y por qué se dice, y las implicaciones de poder e ideología presentes en las interacciones lingüísticas. Algunas referencias que se pueden consultar al respecto son:
+
+* Michel Foucault: Su enfoque analiza cómo el poder y el conocimiento se estructuran a través del lenguaje. En *La arqueología del saber* (1969), estudió cómo las disciplinas e instituciones crean "discursos" que configuran la verdad y la realidad social.
+
+* Teun A. van Dijk: Contribuyó al análisis del discurso crítico, enfocándose en cómo los discursos sociales reflejan y perpetúan desigualdades sociales y cómo las representaciones de los grupos sociales son construidas lingüísticamente.
+
+El análisis del discurso permite investigar cómo las narrativas sobre un proyecto son construidas y percibidas por diferentes actores, revelando las tensiones entre las representaciones oficiales y las vivencias de los beneficiarios. Además, permite identificar cómo las narrativas de los proyectos pueden influir en la percepción común de los resultados y cómo los discursos pueden reflejar relaciones de poder y dominación.
+

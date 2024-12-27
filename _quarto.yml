@@ -37,6 +37,10 @@ book:
     - Introduccion.qmd
     - Contextualizacion.qmd
     - Pasos_metodologicos.qmd
+    - Modelos.qmd
+    - Eval_cualitativa.qmd
+    - Cierre.qmd
+    - Bibliografia.qmd
 
 format:
   html:
