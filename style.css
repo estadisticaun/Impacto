@@ -1,0 +1,49 @@
+a {
+    color: #104E8B;
+}
+h1 {
+    color: #104E8B;
+    font-weight: 600;
+    font-size: xx-large;
+}
+h2 {
+    color: #104E8B;
+    font-weight: 550;
+    font-size: x-large;
+}
+h3 {
+    color: #104E8B;
+    font-weight: 500;
+    font-size: x-large;
+}
+h4 {
+    color: #104E8B;
+    font-weight: 500;
+    font-size: large;
+}
+p {
+    text-align: justify;
+}
+
+.link { color: #1874CD; }
+.link:hover { color: lightgray; }
+
+
+.img-container {
+    text-align: center;
+}
+
+.figure {
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.double-column {
+  column-count: 2;
+}
+
+
+
+

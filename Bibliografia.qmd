@@ -1,6 +1,6 @@
 # Bibliografía {#sec-intro .unnumbered}
 
-* Aguilar Esteva, A. A., & López Ramírez, V. (s.f.). Notas de microeconometría aplicada. Recuperado de https://bookdown.org/viclzrz/notasmicro/
+* Aguilar Esteva, A. A., & López Ramírez, V. (s.f.). Notas de microeconometría aplicada. Recuperado de [https://bookdown.org/viclzrz/notasmicro/](https://bookdown.org/viclzrz/notasmicro/){target="_blank"}
 
 * Cunningham, S. (2021). Causal inference: The mixtape. Yale University Press.
 
@@ -8,13 +8,13 @@
 
 * Gertler, P., Martinez, S., Rawlings, L. B., Premand, P., & Vermeersch, C. M. J. (2016). La evaluación de impacto en la práctica: Segunda edición. Banco Interamericano de Desarrollo.
 
-* Heckman, J. (1974). Shadow Prices, Market Wages, and Labor Supply. Econometrica, 42(4), 679–694. https://doi.org/10.2307/1913937
+* Heckman, J. (1974). Shadow Prices, Market Wages, and Labor Supply. Econometrica, 42(4), 679–694. [https://doi.org/10.2307/1913937](https://doi.org/10.2307/1913937){target="_blank"}
 
-* Heckman, J. J. (1979). Sample selection bias as a specification error. Econometrica, 47(1), 153–161. https://doi.org/10.2307/1912352
+* Heckman, J. J. (1979). Sample selection bias as a specification error. Econometrica, 47(1), 153–161. [https://doi.org/10.2307/1912352](https://doi.org/10.2307/1912352){target="_blank"}
 
 * Heckman, James. (2012). The Common Structure of Statistical Models of Truncation, Sample Selection and Limited Dependent Variables and a Simple Estimator for Such Models. NBER Book Chapters, 5.
 
-* Heidegger, M. (1958). Martín Heidegger.- La Epoca de la Imagen del Mundo. Anales De La Universidad De Chile, (111). Recuperado a partir de https://anales.uchile.cl/index.php/ANUC/article/view/10863
+* Heidegger, M. (1958). Martín Heidegger.- La Epoca de la Imagen del Mundo. Anales De La Universidad De Chile, (111). Recuperado a partir de [https://anales.uchile.cl/index.php/ANUC/article/view/10863](https://anales.uchile.cl/index.php/ANUC/article/view/10863){target="_blank"}
 
 * Hernández Ardila, D. S., & Rodríguez Rodríguez, A. (2023). Estadísticas e indicadores en la gestión pública: Aproximación teórica y práctica. Universidad Nacional de Colombia.
 

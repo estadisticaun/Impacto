@@ -44,12 +44,8 @@ book:
 
 format:
   html:
-    #css: [css/style_gitbook.css]
+    css: style.css
     theme: cosmo
-    include-in-header:
-      - file: style.html
-    include-after-body:
-      - file: scripts.html
 
 delete_merged_file: true
 

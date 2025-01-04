@@ -69,9 +69,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<link href="css/style.css" rel="stylesheet">
-<link href="css/bootstrap-buttons.css" rel="stylesheet">
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -103,6 +100,7 @@ window.Quarto = {
 };
 </script>
 
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -171,7 +169,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Portada</span></a>
+ <span class="menu-text">Preámbulo</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -312,13 +310,13 @@ window.Quarto = {
 <li><p>Identificar a los individuos que forman la población de unidades elegibles. Estableciendo claramente los criterios de inclusión y exclusión que delimitan la población.</p></li>
 <li><p>En caso de que no sea posible realizar un censo (como ocurre en la mayoría de los casos), se debe establecer el tamaño de la muestra que será extraída de la población de unidades elegibles. Este se calcula teniendo en cuenta los parámetros a estimar (indicadores), la potencia estadística deseada, y los métodos y pruebas estadísticas a implementar. Adicionalmente, es necesario contar con un marco muestral que permita la identificación de los individuos y el acceso a ellos para recolectar la información.</p></li>
 </ul>
-<ol type="1">
+<ol start="2" type="1">
 <li>Configurar grupos de tratamiento y comparación:</li>
 </ol>
 <ul>
 <li>Asignar aleatoriamente las unidades de la muestra a los grupos de tratamiento y comparación.</li>
 </ul>
-<ol type="1">
+<ol start="3" type="1">
 <li>Minimizar riesgos:</li>
 </ol>
 <ul>
@@ -348,9 +346,9 @@ window.Quarto = {
 <p>El método de variables instrumentales (VI) es útil para evaluar programas con cumplimiento imperfecto, inscripción voluntaria o cobertura universal. Este método permite determinar el impacto de la intervención a través del efecto promedio del tratamiento en la población. Cuando la participación en una intervención no es controlada y perfecta, se evalúa el impacto estimando, por un lado, el efecto de ofrecer un programa y, por otro, el efecto de participar en él. Aquí surgen los conceptos de ITT y TOT.</p>
 <section id="qué-son-las-variables-instrumentales" class="level4" data-number="3.2.1.1">
 <h4 data-number="3.2.1.1" class="anchored" data-anchor-id="qué-son-las-variables-instrumentales"><span class="header-section-number">3.2.1.1</span> ¿Qué son las Variables Instrumentales?</h4>
-<p>Cuando hablamos de un modelo de regresión múltiple, deben cumplirse ciertos supuestos: <span class="math display">\[Y_i = \beta_0+ \beta_1X_i+ \epsilon_i\]</span><br>
-* El valor esperado del error aleatorio es cero: <span class="math inline">\(E(Y_i) = 0\)</span></p>
+<p>Cuando hablamos de un modelo de regresión múltiple, deben cumplirse ciertos supuestos: <span class="math display">\[Y_i = \beta_0+ \beta_1X_i+ \epsilon_i\]</span></p>
 <ul>
+<li><p>El valor esperado del error aleatorio es cero: <span class="math inline">\(E(Y_i) = 0\)</span></p></li>
 <li><p>La varianza del error es constante, en particular, no está relacionada con la variable explicativa <span class="math inline">\(X\)</span>: <span class="math inline">\(Var(Y_i) = \sigma^2\)</span></p></li>
 <li><p>Para cualquier par de individuos <span class="math inline">\(i, j\)</span>, los errores no están correlacionados y por ende la variable respuesta <span class="math inline">\(Y\)</span> tampoco: <span class="math inline">\(Cov(\epsilon_i,\epsilon_j) = Cov(Y_i,Y_j) = 0\)</span></p></li>
 </ul>
@@ -381,7 +379,7 @@ window.Quarto = {
 <li>Tratamiento Recibido (D): Aquellos que efectivamente reciben el tratamiento.</li>
 <li>No Tratamiento (NT): Aquellos que no reciben el tratamiento.</li>
 </ul>
-<ol type="1">
+<ol start="2" type="1">
 <li>Definir Variables:</li>
 </ol>
 <ul>
@@ -389,18 +387,18 @@ window.Quarto = {
 <li>D: Indicador de tratamiento recibido (1 si recibió el tratamiento, 0 si no).</li>
 <li>Y: Resultado observado.</li>
 </ul>
-<ol type="1">
+<ol start="3" type="1">
 <li>Cálculo de Probabilidades:</li>
 </ol>
 <ul>
 <li><span class="math inline">\(P(D=1|Z=1)\)</span>: Probabilidad de recibir el tratamiento dado que fue asignado al tratamiento.</li>
 <li><span class="math inline">\(P(D=1|Z=0)\)</span>: Probabilidad de recibir el tratamiento dado que fue asignado al grupo de comparación (esto puede no ser cero si hay incumplimiento).</li>
 </ul>
-<ol type="1">
+<ol start="4" type="1">
 <li>Efecto del Tratamiento en el Tratamiento Recibido:</li>
 </ol>
 <p>Calcula la diferencia en las probabilidades: <span class="math display">\[P(D=1|Z=1)-P(D=1|Z=0)\]</span></p>
-<ol type="1">
+<ol start="5" type="1">
 <li>Diferencia de Resultados Promedios:</li>
 </ol>
 <ul>
@@ -408,11 +406,11 @@ window.Quarto = {
 <li><span class="math inline">\(\hat{E}[Y|Z=0]\)</span>:Promedio del resultado en el grupo de comparación asignado.</li>
 </ul>
 <p>Calcula la diferencia en los resultados promedios: <span class="math inline">\(\hat{E}[Y|Z=1] -  \hat{E}[Y|Z=0]\)</span></p>
-<ol type="1">
+<ol start="6" type="1">
 <li>Calcular el LATE:</li>
 </ol>
 <p>El LATE se calcula dividiendo la diferencia de resultados promedios entre los grupos asignados por la diferencia en las probabilidades de recibir el tratamiento</p>
-<p>Fórmula poblacional: <span class="math display">\[LATE = \frac{E[Y∣Z=1]- E[Y∣Z=0]}{E[D∣Z=1]-E[D∣Z=0]}\]</span> Estimación: <span class="math display">\[LATE = \frac{\hat{E}[Y∣Z=1]- \hat{E}[Y∣Z=0]}{P[D=1∣Z=1]-P[D=0∣Z=0]}\]</span></p>
+<p>Fórmula poblacional: <span class="math display">\[LATE = \frac{E[Y∣Z=1]- E[Y∣Z=0]}{E[D∣Z=1]-E[D∣Z=0]}\]</span> Estimación: <span class="math display">\[\widehat{LATE} = \frac{\hat{E}[Y∣Z=1]- \hat{E}[Y∣Z=0]}{P[D=1∣Z=1]-P[D=0∣Z=0]}\]</span></p>
 <p>El LATE es el efecto promedio sobre la variable o indicador (Y) de recibir el tratamiento (D) en aquellos individuos que fueron asignados al tratamiento.</p>
 <p><strong>Ejemplo Práctico</strong></p>
 <p>Supongamos un programa educativo en el que se asigna aleatoriamente a algunos estudiantes a un grupo que recibe tutorías (grupo de tratamiento) y a otros a un grupo que no las recibe (grupo de comparación). Sin embargo, no todos los estudiantes asignados a las tutorías las toman, y algunos del grupo de comparación logran recibir tutorías por otras vías.</p>
@@ -423,20 +421,22 @@ window.Quarto = {
 <li>80% de los asignados al tratamiento efectivamente reciben tutorías.</li>
 <li>10% de los asignados al grupo de comparación reciben tutorías por otras vías.</li>
 </ul>
-<ol type="1">
+<ol start="2" type="1">
 <li>Datos de Resultados:</li>
 </ol>
 <ul>
 <li>Promedio de notas de los estudiantes asignados a tutorías: 75 puntos.</li>
 <li>Promedio de notas de los estudiantes asignados a no recibir tutorías: 70 puntos.</li>
 </ul>
-<p>Cálculo de Probabilidades:</p>
+<ol start="3" type="1">
+<li>Cálculo de Probabilidades:</li>
+</ol>
 <p><span class="math display">\[P(D=1|Z=1)=0.8\]</span> <span class="math display">\[P(D=1|Z=0)=0.1\]</span> <span class="math display">\[P(D=1|Z=1)-P(D=1|Z=0) =0.8-0.1=0.7\]</span></p>
-<ol type="1">
+<ol start="4" type="1">
 <li>Cálculo de Diferencia de Resultados:</li>
 </ol>
 <p><span class="math display">\[\hat{E}[Y|Z=1]=75\]</span> <span class="math display">\[\hat{E}[Y|Z=0]=70\]</span> <span class="math display">\[\hat{E}[Y|Z=1] - \hat{E}[Y|Z=0]=75−70=5\]</span></p>
-<ol type="1">
+<ol start="5" type="1">
 <li>Cálculo del LATE:</li>
 </ol>
 <p><span class="math display">\[LATE=\frac{5}{0.7}\approx7.14\]</span></p>
@@ -563,7 +563,7 @@ window.Quarto = {
 <li>P.A.P.A. (Y)</li>
 <li>Variable tratamiento (D): 1 si recibió la beca (X &gt; 750), 0 si no (X 750).</li>
 </ul>
-<ol type="1">
+<ol start="2" type="1">
 <li>Ajustar el modelo de regresión discontinua:</li>
 </ol>
 <p><span class="math display">\[Y_i= \alpha + \beta(X_i-750)+ \rho D_i + \gamma D_i (X_i-750) + \epsilon_i\]</span></p>
@@ -609,14 +609,14 @@ window.Quarto = {
 <li>Si las tendencias eran paralelas antes del programa, es razonable suponer que continuarían así sin la intervención.</li>
 <li>Requiere al menos dos rondas de observaciones: una antes del programa y una después.</li>
 </ul>
-<ol type="1">
+<ol start="2" type="1">
 <li>Pruebas de Placebo:</li>
 </ol>
 <ul>
 <li>Grupo de Tratamiento Falso: Usar un grupo no afectado por el programa como grupo de tratamiento falso para verificar la validez del grupo de comparación. Si la prueba encuentra un impacto, indica diferencias fundamentales en las tendencias.</li>
 <li>Resultado Falso: Verificar con un resultado que no debería ser afectado por el programa (ejemplo: número de hermanos en un estudio de clases de apoyo). Un impacto en el resultado falso sugiere problemas en el grupo de comparación.</li>
 </ul>
-<ol type="1">
+<ol start="3" type="1">
 <li>Comparación con Múltiples Grupos de Comparación:</li>
 </ol>
 <ul>
@@ -659,10 +659,7 @@ window.Quarto = {
 <p>El pareamiento por puntajes de propensión (propensity score matching) simplifica el proceso al estimar la probabilidad de que un individuo reciba el tratamiento, basada en características observables. Este puntaje de propensión es un número entre 0 y 1 que resume la influencia de todas las características observables en la probabilidad de recibir el tratamiento. Es decir, que en lugar de tener múltiples variables asociadas a cada individuo, lo cual hace que sea difícil emparejarlos, se construye un único valor por individuo.</p>
 <p><strong>Proceso de Pareamiento</strong></p>
 <ol type="1">
-<li>Cálculo del Puntaje de Propensión:</li>
-</ol>
-<p>Estimar la probabilidad de recibir el tratamiento para cada individuo utilizando características observables. Esto se puede realizar de diversas maneras, una de las más utilizadas es la regresión logística empleando como la variable respuesta el tratamiento (1 si recibe el tratamiento, 0 si no lo recibe) y como covariables las características observadas en la línea base.</p>
-<ol type="1">
+<li><p>Cálculo del Puntaje de Propensión: Estimar la probabilidad de recibir el tratamiento para cada individuo utilizando características observables. Esto se puede realizar de diversas maneras, una de las más utilizadas es la regresión logística empleando como la variable respuesta el tratamiento (1 si recibe el tratamiento, 0 si no lo recibe) y como covariables las características observadas en la línea base.</p></li>
 <li><p>Rango Común: Verificar que la distribución de los puntajes de propensión en el grupo tratamiento y en el grupo de comparación se superpongan. En caso de que no ocurra, se estima el LATE sobre el rango común.</p></li>
 <li><p>Pareamiento: Parear cada unidad de tratamiento con unidades no tratadas con puntajes de propensión similares.</p></li>
 <li><p>Comparación de Resultados: Comparar los resultados de los grupos de tratamiento y comparación para estimar el impacto del programa.</p></li>
@@ -697,7 +694,7 @@ window.Quarto = {
 <p>Sea <span class="math inline">\(Y_{1i}\)</span> el resultado de interés con <span class="math inline">\(i\)</span> variando desde 1 hasta el número de individuos (<span class="math inline">\(I\)</span>), <span class="math inline">\(Y_{2i}\)</span> la variable que especifica si un individuo está en la muestra, <span class="math inline">\(X_{1i}\)</span> y <span class="math inline">\(X_{2i}\)</span> las matrices de diseño de cada modelo respectivamente (pueden tener variables en común), <span class="math inline">\(\beta_1\)</span> y <span class="math inline">\(\beta_2\)</span> los vectores de coeficientes, <span class="math inline">\(U_{1i}\)</span> y <span class="math inline">\(U_{2i}\)</span> los errores aleatorios normales de media 0.</p>
 <p><span class="math display">\[Y_{1i}= X_{1i}\beta_1+U_{1i}  \quad \rightarrow \quad \text{Regresión original}\]</span> <span class="math display">\[Y_{2i}= X_{2i}\beta_2+U_{2i}  \quad  \rightarrow \quad \text{Criterio de selección}\]</span></p>
 <p>Cuando se realiza una asignación aleatoria <span class="math inline">\(E(U_{ji},U_{j'i'}) = \sigma_{jj'}\)</span> si <span class="math inline">\(i=i'\)</span>, ó <span class="math inline">\(E(U_{ji},U_{j'i'}) = 0\)</span> si <span class="math inline">\(i\neq i'\)</span>, entonces el modelo queda especificado como <span class="math inline">\(E(Y_{1i}|X_{1i})=X_{1i}\beta_1\)</span>. Sin embargo, si faltan ciertas observaciones de <span class="math inline">\(Y_1\)</span> debido al criterio de selección de la muestra, el modelo es:</p>
-<p><span class="math inline">\(E(Y_{1i}|X_{1i}, \text{criterio de selección})=X_{1i}\beta_1+E(U_{1i}|\text{criterio de selección})\)</span></p>
+<p><span class="math display">\[E(Y_{1i}|X_{1i}, \text{criterio de selección})=X_{1i}\beta_1+E(U_{1i}|\text{criterio de selección})\]</span></p>
 <p>Suponiendo que hay datos disponibles de <span class="math inline">\(Y_1\)</span> si <span class="math inline">\(Y_{2i} \geq 0\)</span>, mientras que si <span class="math inline">\(Y_{2i} &lt; 0\)</span> no hay observaciones de <span class="math inline">\(Y_1\)</span>, se tiene que:</p>
 <p><span class="math display">\[E(U_{1i}|\text{criterio de selección})=E(U_{1i}|Y_{2i}\geq 0)=E(U_{1i}|U_{2i}\geq-X_{2i}\beta_2)\]</span></p>
 <p>En el caso de que <span class="math inline">\(U_{1i}\)</span> y <span class="math inline">\(U_{2i}\)</span> sean independientes, el valor esperado anterior es 0, sin embargo, al haber un sesgo de selección no se cumple la independencia. La correlación entre los términos del error es <span class="math inline">\(\rho=\frac{\sigma_{12}}{\sqrt{\sigma_{11}\sigma_{22}}}\)</span>.</p>
@@ -747,38 +744,38 @@ window.Quarto = {
 <tr class="odd">
 <td>Experimentos controlados aleatorios</td>
 <td>- Estimar el efecto causal directo cuando es factible la asignación aleatoria del tratamiento.</td>
-<td>- Alta validez interna. - Permite atribuir causalidad. - Posibilidad de extrapolar. - Resultados replicables. - Control de sesgos.</td>
-<td>- Cuestiones éticas. - La logística puede ser compleja y los costos altos. - Garantizar la aleatorización puede ser difícil.</td>
+<td>- Alta validez interna.<br> - Permite atribuir causalidad.<br> - Posibilidad de extrapolar.<br> - Resultados replicables.<br> - Control de sesgos.</td>
+<td>- Cuestiones éticas.<br> - La logística puede ser compleja y los costos altos.<br> - Garantizar la aleatorización puede ser difícil.</td>
 </tr>
 <tr class="even">
 <td>Diferencias en diferencias</td>
 <td>- Evaluar impacto en programas donde existen datos de antes y después del tratamiento.</td>
-<td>- Controla factores constantes en el tiempo. - Útil cuando no es posible la aleatorización.</td>
-<td>- Supone que las tendencias serán paralelas sin intervención. - Sensible a cambios externos.</td>
+<td>- Controla factores constantes en el tiempo.<br> - Útil cuando no es posible la aleatorización.</td>
+<td>- Supone que las tendencias serán paralelas sin intervención.<br> - Sensible a cambios externos.</td>
 </tr>
 <tr class="odd">
 <td>Diseño de Regresión Discontinua</td>
 <td>- Estimar impacto cuando hay un punto de corte claro para recibir el tratamiento.</td>
-<td>- Alta validez interna en torno al punto de corte. - Permite inferencias causales locales.</td>
-<td>- Solo válido cerca del punto de corte. - Requiere muchas observaciones cercanas al umbral. - Posible manipulación del umbral.</td>
+<td>- Alta validez interna en torno al punto de corte.<br> - Permite inferencias causales locales.</td>
+<td>- Solo válido cerca del punto de corte.<br> - Requiere muchas observaciones cercanas al umbral.<br> - Posible manipulación del umbral.</td>
 </tr>
 <tr class="even">
 <td>Empareamiento</td>
 <td>- Comparar impacto creando un grupo de control con características similares al grupo tratado.</td>
-<td>- Reduce el sesgo de selección al equilibrar grupos. - No requiere aleatorización completa.</td>
-<td>- Difícil encontrar pareo perfecto. - No controla factores no observables que influyen en el tratamiento.</td>
+<td>- Reduce el sesgo de selección al equilibrar grupos.<br> - No requiere aleatorización completa.</td>
+<td>- Difícil encontrar pareo perfecto.<br> - No controla factores no observables que influyen en el tratamiento.</td>
 </tr>
 <tr class="odd">
 <td>Variables Instrumentales</td>
 <td>- Medir el impacto controlando por variables endógenas (relación causal bidireccional o factores no observados).</td>
-<td>- Permite estimar relaciones causales cuando el tratamiento está correlacionado con factores no observables. - Útil cuando no es posible la asignación aleatoria.</td>
-<td>- Difícil encontrar un buen instrumento (debe estar correlacionado con el tratamiento y no con el resultado). - Puede dar estimaciones poco precisas si el instrumento es débil.</td>
+<td>- Permite estimar relaciones causales cuando el tratamiento está correlacionado con factores no observables.<br> - Útil cuando no es posible la asignación aleatoria.</td>
+<td>- Difícil encontrar un buen instrumento (debe estar correlacionado con el tratamiento y no con el resultado).<br> - Puede dar estimaciones poco precisas si el instrumento es débil.</td>
 </tr>
 <tr class="even">
 <td>Estimador de Selección de Heckman</td>
 <td>- Corregir el sesgo de selección en análisis de impacto donde existe auto-selección, o una muestra seleccionada arbitrariamente.</td>
 <td>- Útil cuando el acceso al tratamiento depende de decisiones individuales o auto-selección.</td>
-<td>- Sensible a errores o violación de supuestos en los modelos de selección y resultado. - Se requiere estimar la probabilidad de que el resultado sea medido. - No es confiable con tamaños de muestra pequeños.</td>
+<td>- Sensible a errores o violación de supuestos en los modelos de selección y resultado.<br> - Se requiere estimar la probabilidad de que el resultado sea medido.<br> - No es confiable con tamaños de muestra pequeños.</td>
 </tr>
 </tbody>
 </table>
@@ -795,7 +792,7 @@ window.Quarto = {
 </colgroup>
 <thead>
 <tr class="header">
-<th>Tipo de Evaluación de Impacto</th>
+<th>Tipo de EI</th>
 <th>Descripción</th>
 <th>Cita</th>
 </tr>
@@ -818,7 +815,7 @@ window.Quarto = {
 </tr>
 <tr class="even">
 <td>Métodos de Emparejamiento (Propensity Score Matching)</td>
-<td>Soler et al.&nbsp;(2021) estudiaron el impacto de la repetición de grado sobre el desempeño académico de estudiantes de noveno grado en Colombia. Usaron métodos de emparejamiento para formar grupos comparables y encontraron que la repetición afectó negativamente el rendimiento en matemáticas y lengua, aunque para las estudiantes femeninas se observó un efecto positivo en <strong>lenguaje</strong>.</td>
+<td>Soler et al.&nbsp;(2021) estudiaron el impacto de la repetición de grado sobre el desempeño académico de estudiantes de noveno grado en Colombia. Usaron métodos de emparejamiento para formar grupos comparables y encontraron que la repetición afectó negativamente el rendimiento en matemáticas y lengua, aunque para las estudiantes femeninas se observó un efecto positivo en el lenguaje.</td>
 <td>Soler, S. C. G., González, J. C., &amp; Alvarado, I. K. A. (2021). Should students repeat a school year? The case of grade 9 students in Colombia. <em>International Journal of Educational Research, 110,</em> 101808.</td>
 </tr>
 <tr class="odd">
@@ -1296,10 +1293,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script src="js/widgets.js"></script>
-<script src="js/full-screen-helper.js"></script>
-
-
 
 
 

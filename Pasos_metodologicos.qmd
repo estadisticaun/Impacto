@@ -40,7 +40,7 @@ Para desarrollar una teoría del cambio robusta, es fundamental incluir los sigu
 
 Una serie de herramientas analíticas y metodológicas puede facilitar la construcción de una teoría del cambio, asegurando que sea clara, coherente y empíricamente validable:
 
-* Análisis de rutas (Path Analysis): Esta estrategia permite visualizar las relaciones causales entre variables a través de diagramas de flujo, proporcionando una representación gráfica de cómo las actividades de la intervención conducen a los resultados esperados. El análisis de rutas ayuda a identificar los puntos críticos en el proceso de cambio y a asegurar que todas las variables relevantes sean consideradas. Para realizarlo se recomiendan plataformas como *LucidChart*, *Microsoft Visio* y *Draw.io*.
+* Análisis de rutas (Path Analysis): Esta estrategia permite visualizar las relaciones causales entre variables a través de diagramas de flujo, proporcionando una representación gráfica de cómo las actividades de la intervención conducen a los resultados esperados. El análisis de rutas ayuda a identificar los puntos críticos en el proceso de cambio y a asegurar que todas las variables relevantes sean consideradas. Para realizarlo se recomiendan plataformas como [*LucidChart*](https://www.lucidchart.com){target="_blank"}, *Microsoft Visio* y [*Draw.io*](http://draw.io){target="_blank"}.
 
 * Matriz de marco lógico: Organiza la teoría del cambio en una matriz cuyas filas son los diferentes componentes: insumos, actividades, objetivos, resultados,etc., y cuyas columnas incluyen metas, indicadores, fuentes de verificación, supuestos, etc. Permitiendo estructurar la información de manera condensada y clara. *Excel* es una herramienta adecuada para implementarla.
  
@@ -112,13 +112,13 @@ A continuación, se presenta una tipología resumida de indicadores, extraída d
 
 #### Indicadores Cuantitativos y Cualitativos
 
-* **Indicadores Cuantitativos**: Se basan en mediciones numéricas y miden magnitudes o cantidades. Ejemplos incluyen el PIB, la tasa de inflación, la mortalidad, la tasa de desempleo, etc.
+* Indicadores Cuantitativos: Se basan en mediciones numéricas y miden magnitudes o cantidades. Ejemplos incluyen el PIB, la tasa de inflación, la mortalidad, la tasa de desempleo, etc.
 
-* **Indicadores Cualitativos**: Se enfocan en aspectos no numéricos, como percepciones, actitudes, valores, calidad, etc. Su medición se realiza a través de descripciones verbales o visuales. Sin embargo, pueden ser cuantificados indirectamente mediante escalas como la Likert.
+* Indicadores Cualitativos: Se enfocan en aspectos no numéricos, como percepciones, actitudes, valores, calidad, etc. Su medición se realiza a través de descripciones verbales o visuales. Sin embargo, pueden ser cuantificados indirectamente mediante escalas como la Likert.
 
 En algunos casos, es útil hablar de **estrategias de medición directas e indirectas** (en lugar de cualitativas y cuantitativas), pues algunas características no numéricas pueden ser medidas con herramientas numéricas. Por ejemplo, la felicidad o la ansiedad pueden medirse indirectamente con encuestas y otros instrumentos de medición que emplean escalas numéricas.
 
-* **Combinación de Indicadores**: A menudo se combinan enfoques cualitativos y cuantitativos para obtener una visión más completa del fenómeno estudiado, como en las encuestas que combinan preguntas cerradas (cuantitativas) con abiertas (cualitativas).
+* Combinación de Indicadores: A menudo se combinan enfoques cualitativos y cuantitativos para obtener una visión más completa del fenómeno estudiado, como en las encuestas que combinan preguntas cerradas (cuantitativas) con abiertas (cualitativas).
 
 #### Indicadores Temáticos
 
@@ -232,17 +232,17 @@ La limpieza de datos es un proceso crucial que garantiza la calidad y precisión
 
 #### Etapas de la limpieza de datos
 
-* Eliminación de datos incorrectos o irrelevantes:
+* **Eliminación de datos incorrectos o irrelevantes**:
 
-**Identificación y remoción**: Detectar y eliminar datos que sean incorrectos, incompletos o irrelevantes, ya que pueden distorsionar los resultados del análisis.
+Identificación y remoción: Detectar y eliminar datos que sean incorrectos, incompletos o irrelevantes, ya que pueden distorsionar los resultados del análisis.
 
-* Procedimientos de imputación:
+* **Procedimientos de imputación**:
 
-**Estimación y compleción de datos faltantes**: Utilizar métodos estadísticos para estimar y completar datos faltantes, asegurando la integridad del conjunto de datos.
+Estimación y compleción de datos faltantes: Utilizar métodos estadísticos para estimar y completar datos faltantes, asegurando la integridad del conjunto de datos.
 
-* Estandarización y formato:
+* **Estandarización y formato**:
 
-**Consistencia y estructura**: Organizar los datos de manera consistente y estructurada, asegurando que estén listos para ser analizados con las herramientas estadísticas adecuadas. Esto incluye la conversión de formatos y la unificación de criterios de registro.
+Consistencia y estructura: Organizar los datos de manera consistente y estructurada, asegurando que estén listos para ser analizados con las herramientas estadísticas adecuadas. Esto incluye la conversión de formatos y la unificación de criterios de registro.
 
 #### Principios de “Tidy Data”
 
